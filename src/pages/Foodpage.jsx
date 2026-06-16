@@ -97,7 +97,7 @@ function FoodPage() {
 
                 />
                 <h1>
-                    What would you like to eat? 😋
+                    What would you like to eat? ❤️😋
                 </h1>
                 <p>
                     Choose one for our date ❤️
